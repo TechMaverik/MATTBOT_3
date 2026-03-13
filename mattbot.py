@@ -180,7 +180,7 @@ with st.sidebar:
 # ── Main area ──────────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="page-title">Mattbot 3</div>
-<div class="page-subtitle">Powered by HLEngine 3 · </div>
+<div class="page-subtitle">Powered by HLEngine 3</div>
 """, unsafe_allow_html=True)
 
 # Chat history display
